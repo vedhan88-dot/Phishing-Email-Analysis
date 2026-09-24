@@ -1,0 +1,53 @@
+From: security@paypa1-secure.com
+To: victim@example.com
+Subject: URGENT: Your PayPal Account Has Been Suspended
+Date: Mon, 15 Jan 2025 09:23:11 -0500
+Reply-To: support@paypa1-recovery.tk
+Return-Path: <bounce@spam-relay.xyz>
+Received: from mail.spam-relay.xyz (spam-relay.xyz [192.168.1.100])
+        by mx.example.com with SMTP id abc123
+Received: from unknown-host.ru (unknown [91.234.56.78])
+        by spam-relay.xyz with SMTP
+Received: from compromised-server.cn
+        by unknown-host.ru with SMTP
+Received: from mail-gateway.xyz
+        by compromised-server.cn
+Received: from smtp.paypa1-secure.com
+        by mail-gateway.xyz
+Received: from internal.paypa1-secure.com
+        by smtp.paypa1-secure.com
+Received: from origin.paypa1-secure.com
+        by internal.paypa1-secure.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+X-Mailer: PHPMailer
+
+Dear Customer,
+
+URGENT ACTION REQUIRED - Your account will be suspended within 24 hours!
+
+We have detected suspicious login activity on your PayPal account. Due to unusual activity, your account has been temporarily locked and will be permanently suspended unless you verify your identity immediately.
+
+Please click here to verify your account now:
+http://paypa1-secure.tk/verify?token=a8f3k2&redirect=http://bit.ly/3xR9pQ
+
+You must confirm your identity and enter your password and credit card details to restore access to your account. Failure to respond within 24 hours will result in permanent account closure.
+
+To unlock your account:
+1. Click the link above immediately
+2. Enter your PayPal email and password
+3. Confirm your credit card number and billing details
+4. Verify your Social Security Number for identity confirmation
+
+This is your final notice. Act now before your account expires.
+
+Dear valued customer, we take security very seriously. Please respond immediately.
+
+Congratulations - once verified, you will receive a $50 reward credit!
+
+Security Team
+PayPal Customer Support
+http://www.paypa1-secure.tk
+http://tinyurl.com/verify-account
+http://bit.ly/paypal-unlock
+
